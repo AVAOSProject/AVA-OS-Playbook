@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/YOUR_USERNAME/AVA-OS" target="_blank">
-    <img src="path/to/your/AVA-OS-Logo.png" alt="AVA OS" width="400">
+  <a href="[https://github.com/YOUR_USERNAME/AVA-OS](https://github.com/AVAOSProject/AVAOSProject.github.io)" target="_blank">
+    <img src="images/AVA-OS-Square.png" alt="AVA OS" width="400">
   </a>
 </h1>
 
