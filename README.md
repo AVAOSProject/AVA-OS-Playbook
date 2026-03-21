@@ -13,9 +13,9 @@
 <p align="center"><b>AVA OS</b> is a high-performance, refined modification of Windows designed to bridge the gap between extreme optimization and daily usability.</p>
 
 <p align="center">
-  <a href="[#](https://avaosproject.github.io/)">🌐 Website</a>
+  <a href="https://avaosproject.github.io/">🌐 Website</a>
   •
-  <a href="[#](https://discord.gg/jCFHBBcE)">☎️ Discord</a>
+  <a href="https://discord.gg/jCFHBBcE">☎️ Discord</a>
 </p>
 
 ---
