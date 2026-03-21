@@ -5,9 +5,9 @@
 </h1>
 
 <p align="center">
-    <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/YOUR_USERNAME/AVA-OS?style=for-the-badge&logo=github&color=0062ff"/></a>
-    <a href="graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/YOUR_USERNAME/AVA-OS?style=for-the-badge&color=0062ff" /></a>
-    <a href="releases/latest"><img alt="Release" src="https://img.shields.io/github/release/YOUR_USERNAME/AVA-OS?style=for-the-badge&color=0062ff" /></a>
+    <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/AVAOSProject/AVA-OS?style=for-the-badge&logo=github&color=0062ff"/></a>
+    <a href="graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/AVAOSProject/AVA-OS?style=for-the-badge&color=0062ff" /></a>
+    <a href="releases/latest"><img alt="Release" src="https://img.shields.io/github/release/AVAOSProject/AVA-OS?style=for-the-badge&color=0062ff" /></a>
 </p>
 
 <p align="center"><b>AVA OS</b> is a high-performance, refined modification of Windows designed to bridge the gap between extreme optimization and daily usability.</p>
